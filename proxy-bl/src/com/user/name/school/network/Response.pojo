@@ -1,0 +1,8 @@
+package:com.user.name.school.network
+entityName:Response
+implements:java.io.Serializable
+identificationNumber:long
+result:Object
+success:boolean
+exceptionMessage:String
+exceptionClassName:String

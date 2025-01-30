@@ -1,0 +1,5 @@
+package:com.user.name.school.configuration.pojo
+entityName:Configuration
+implements:java.io.Serializable
+server:String
+port:int

@@ -1,0 +1,1 @@
+javac -d /home/t8821844329/javaexamples/school-project/school-server/classes -classpath /home/t8821844329/javaexamples/school-project/school-server/classes:/home/t8821844329/javaexamples/school-project/bl/classes:. *.java

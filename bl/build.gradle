@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies{
+implementation files('C:/Users/Indian/scptransfer/home/t8821844329/javaexamples/school-project/bl/dist/student_bl.jar','C:/Users/Indian/scptransfer/home/t8821844329/javaexamples/school-project/dl/dist/student_dl.jar')
+}

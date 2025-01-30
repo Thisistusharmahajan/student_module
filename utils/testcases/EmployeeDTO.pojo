@@ -1,0 +1,14 @@
+package: com.user.name.hr.dl
+implements: java.io.Serializable
+implements: Comparable<EmployeeDTO>
+entityName:EmployeeDTO
+id:String
+name:String
+designationCode:int
+title:String
+dateOfBirth:java.util.Date
+gender:String
+isIndian:boolean
+basicSalary:BigDecimal
+panNumber:String
+aadhaarCardNumber:String

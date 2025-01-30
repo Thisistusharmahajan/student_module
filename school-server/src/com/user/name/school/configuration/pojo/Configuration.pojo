@@ -1,0 +1,3 @@
+package:com.user.name.school.configuration.pojo
+implements:java.io.Serializable
+port:int
