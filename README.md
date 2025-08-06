@@ -8,3 +8,6 @@ this will server as client-side(presentation Layer)
 SCREENSHOTS:
 
 ![WhatsApp Image 2025-08-06 at 21 25 03](https://github.com/user-attachments/assets/79c48094-01cf-4cba-85cb-cb977038a787)
+<img width="739" height="556" alt="image" src="https://github.com/user-attachments/assets/6ff2ebe0-8504-4aeb-bc14-e13cb14e6499" />
+<img width="735" height="559" alt="image" src="https://github.com/user-attachments/assets/1c89658a-517a-441b-b6ff-1ca416b14dde" />
+
