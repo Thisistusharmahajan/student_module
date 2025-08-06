@@ -4,4 +4,7 @@ i) to start the server navigate to school-server\testcases then run the followin
 
 ii) open another instance of command prompt and navigate to pl\testcases and run the following command: java -classpath lib\proxy-student_bl.jar;lib\student_pl.jar;lib\utils.jar;. com.user.name.school.main.Main
 this will server as client-side(presentation Layer)
+
+SCREENSHOTS:
+
 ![WhatsApp Image 2025-08-06 at 21 25 03](https://github.com/user-attachments/assets/79c48094-01cf-4cba-85cb-cb977038a787)
